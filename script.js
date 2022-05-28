@@ -28,6 +28,9 @@ let chars = [
     text1:`Fire`,
   },
   {
+    text1:`Water`,
+  },
+  {
     text1:`Tree`,
   },
   {
